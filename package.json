@@ -1,0 +1,21 @@
+{
+  "name": "azure-static-webappservice-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"nothing to do\"",
+    "build": "mkdir -p public && echo \"Hello World\" > public/index.html" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watahani/azure-static-webappservice-simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watahani/azure-static-webappservice-simple/issues"
+  },
+  "homepage": "https://github.com/watahani/azure-static-webappservice-simple#readme"
+}
